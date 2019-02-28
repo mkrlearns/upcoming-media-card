@@ -25,7 +25,7 @@ If you do not get any info from the links below, one or more of the following ma
 * IP, SSL, port, api key, or token may be incorrect.
 * There are no items to report in your set time frame.
 
-These are not issues related to the card or components and need addressed with the service you are using.
+These issues are not related to the card, components, or Home Assistant and need addressed with the service you are using.
 
 ## Radarr & Sonarr:
 Use the IP and port of your
